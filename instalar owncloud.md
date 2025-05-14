@@ -177,4 +177,4 @@ Una vez puesto nos saldrá esto
 
 ![37](37.png)
 
-Ahora toca configurar el OwnCloud, explicado en: https://github.com/AdriFroste/owncloud.alr/blob/main/config%20owncloud
+Ahora toca configurar el OwnCloud, explicado en: [Configuración de OwnCloud](https://github.com/AdriFroste/owncloud.alr/blob/main/config%20owncloud.md)
