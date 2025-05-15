@@ -17,7 +17,8 @@ En la pagina principal accedemos a nuestro propio usuario arriba a la derecha y 
 Accederemos arriba a la izquierda y escribiremos el nombre del grupo que queramos crear
 ![41](41.png)
 ![42](42.png)
-![43](43.png)
+![xd3](xd3.png)
+Aqui muestro unos grupos que he creado y asignado a los usuarios, visualizador, editor los mas importantes.
 
 ### Crear usuario
 
@@ -32,7 +33,11 @@ Tambien se muestra que he creado un par de usuarios y los he metido en varios gr
 
 Hay 3 formas de subir archivos, en la pagina principal arriba a la derecha nos daran 3 opciones despues de acceder a "+", Upload, subir el archivo desde tu ordenador, folder para crear carpetas y file para crear documentos de textos.
 ![46](46.png)
+En mi caso he creado una carpeta llamada "manuel" y dentro he subido una imagen a la carpeta
 
+![xd](xd.png)
+![xd2](xd2.png)
+![xd1](xd1.png)
 ### Permisos en archivos
 
 Accediendo a cualquier carpeta de OwnCloud podemos acceder a "sharing" y ahi `podemos dar los permisos que queramos al usuario que queramos para ese documento
