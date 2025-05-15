@@ -1,5 +1,6 @@
 # owncloud.alr
 En los siguientes enlaces enseñaré como instalar y configurar OwnCloud pero primero debemos acceder a nuestra maquina virtual de Isardvi.
+![xd5.png](xd5.png)
 ![xd4.png](xd4)
 
 
